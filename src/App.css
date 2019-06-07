@@ -1,0 +1,29 @@
+.hi{
+  font-size:4rem;
+  color: red;
+  margin: 0;
+}
+.row{
+  display: flex;
+  flex-direction: row;
+  margin-left: 5rem;
+}
+
+.buttons{
+  height: 4rem;
+  width: 4rem;
+
+}
+.plus{
+  right: 50%;
+  background-color: blue;
+}
+.minus{
+  background-color: red;
+  margin-left: 1rem;
+}
+.buttons span{
+  font-size: 3rem;
+
+  color: white;
+}
